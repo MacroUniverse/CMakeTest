@@ -1,7 +1,7 @@
 #include <iostream>
 #include "TutorialConfig.h"
+#include "MathFunctions/sqr.h"
 
-double sqr(const double x);
 int main()
 {
 	using namespace std;
