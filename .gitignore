@@ -4,3 +4,6 @@ cmake_install.cmake
 Makefile
 Tutorial
 TutorialConfig.h
+*.swp
+*.a
+*.o
