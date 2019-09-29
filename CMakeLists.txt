@@ -7,7 +7,7 @@ set (Tutorial_VERSION_MINOR 0)
 # should we use our own math functions?
 option (USE_MYMATH 
         "Use tutorial provided math implementation" OFF) 
- 
+
 # configure a header file to pass some of the CMake settings
 # to the source code
 configure_file (
